@@ -1,0 +1,40 @@
+C:\Users\janwe\source\repos\LuisaKatrinaReyes.NewsBrowser.Windows\bin\Debug\LuisaKatrinaReyes.NewsBrowser.Windows.exe.config
+C:\Users\janwe\source\repos\LuisaKatrinaReyes.NewsBrowser.Windows\bin\Debug\LuisaKatrinaReyes.NewsBrowser.Windows.exe
+C:\Users\janwe\source\repos\LuisaKatrinaReyes.NewsBrowser.Windows\bin\Debug\LuisaKatrinaReyes.NewsBrowser.Windows.pdb
+C:\Users\janwe\source\repos\LuisaKatrinaReyes.NewsBrowser.Windows\bin\Debug\Newtonsoft.Json.dll
+C:\Users\janwe\source\repos\LuisaKatrinaReyes.NewsBrowser.Windows\bin\Debug\RestSharp.dll
+C:\Users\janwe\source\repos\LuisaKatrinaReyes.NewsBrowser.Windows\bin\Debug\Newtonsoft.Json.xml
+C:\Users\janwe\source\repos\LuisaKatrinaReyes.NewsBrowser.Windows\bin\Debug\RestSharp.xml
+C:\Users\janwe\source\repos\LuisaKatrinaReyes.NewsBrowser.Windows\obj\Debug\LuisaKatrinaReyes.NewsBrowser.Windows.csprojAssemblyReference.cache
+C:\Users\janwe\source\repos\LuisaKatrinaReyes.NewsBrowser.Windows\obj\Debug\MainWindow.g.cs
+C:\Users\janwe\source\repos\LuisaKatrinaReyes.NewsBrowser.Windows\obj\Debug\App.g.cs
+C:\Users\janwe\source\repos\LuisaKatrinaReyes.NewsBrowser.Windows\obj\Debug\LuisaKatrinaReyes.NewsBrowser.Windows_MarkupCompile.cache
+C:\Users\janwe\source\repos\LuisaKatrinaReyes.NewsBrowser.Windows\obj\Debug\LuisaKatrinaReyes.NewsBrowser.Windows_MarkupCompile.lref
+C:\Users\janwe\source\repos\LuisaKatrinaReyes.NewsBrowser.Windows\obj\Debug\MainWindow.baml
+C:\Users\janwe\source\repos\LuisaKatrinaReyes.NewsBrowser.Windows\obj\Debug\LuisaKatrinaReyes.NewsBrowser.Windows.g.resources
+C:\Users\janwe\source\repos\LuisaKatrinaReyes.NewsBrowser.Windows\obj\Debug\LuisaKatrinaReyes.NewsBrowser.Windows.Properties.Resources.resources
+C:\Users\janwe\source\repos\LuisaKatrinaReyes.NewsBrowser.Windows\obj\Debug\LuisaKatrinaReyes.NewsBrowser.Windows.csproj.GenerateResource.cache
+C:\Users\janwe\source\repos\LuisaKatrinaReyes.NewsBrowser.Windows\obj\Debug\LuisaKatrinaReyes.NewsBrowser.Windows.csproj.CoreCompileInputs.cache
+C:\Users\janwe\source\repos\LuisaKatrinaReyes.NewsBrowser.Windows\obj\Debug\LuisaKatrinaReyes.NewsBrowser.Windows.csproj.CopyComplete
+C:\Users\janwe\source\repos\LuisaKatrinaReyes.NewsBrowser.Windows\obj\Debug\LuisaKatrinaReyes.NewsBrowser.Windows.exe
+C:\Users\janwe\source\repos\LuisaKatrinaReyes.NewsBrowser.Windows\obj\Debug\LuisaKatrinaReyes.NewsBrowser.Windows.pdb
+C:\Users\VGD pc 2\Desktop\LuisaKatrinaReyes.NewsBrowser.Windows\bin\Debug\LuisaKatrinaReyes.NewsBrowser.Windows.exe.config
+C:\Users\VGD pc 2\Desktop\LuisaKatrinaReyes.NewsBrowser.Windows\bin\Debug\LuisaKatrinaReyes.NewsBrowser.Windows.exe
+C:\Users\VGD pc 2\Desktop\LuisaKatrinaReyes.NewsBrowser.Windows\bin\Debug\LuisaKatrinaReyes.NewsBrowser.Windows.pdb
+C:\Users\VGD pc 2\Desktop\LuisaKatrinaReyes.NewsBrowser.Windows\bin\Debug\Newtonsoft.Json.dll
+C:\Users\VGD pc 2\Desktop\LuisaKatrinaReyes.NewsBrowser.Windows\bin\Debug\RestSharp.dll
+C:\Users\VGD pc 2\Desktop\LuisaKatrinaReyes.NewsBrowser.Windows\bin\Debug\Newtonsoft.Json.xml
+C:\Users\VGD pc 2\Desktop\LuisaKatrinaReyes.NewsBrowser.Windows\bin\Debug\RestSharp.xml
+C:\Users\VGD pc 2\Desktop\LuisaKatrinaReyes.NewsBrowser.Windows\obj\Debug\LuisaKatrinaReyes.NewsBrowser.Windows.csprojAssemblyReference.cache
+C:\Users\VGD pc 2\Desktop\LuisaKatrinaReyes.NewsBrowser.Windows\obj\Debug\MainWindow.g.cs
+C:\Users\VGD pc 2\Desktop\LuisaKatrinaReyes.NewsBrowser.Windows\obj\Debug\App.g.cs
+C:\Users\VGD pc 2\Desktop\LuisaKatrinaReyes.NewsBrowser.Windows\obj\Debug\LuisaKatrinaReyes.NewsBrowser.Windows_MarkupCompile.cache
+C:\Users\VGD pc 2\Desktop\LuisaKatrinaReyes.NewsBrowser.Windows\obj\Debug\LuisaKatrinaReyes.NewsBrowser.Windows_MarkupCompile.lref
+C:\Users\VGD pc 2\Desktop\LuisaKatrinaReyes.NewsBrowser.Windows\obj\Debug\MainWindow.baml
+C:\Users\VGD pc 2\Desktop\LuisaKatrinaReyes.NewsBrowser.Windows\obj\Debug\LuisaKatrinaReyes.NewsBrowser.Windows.g.resources
+C:\Users\VGD pc 2\Desktop\LuisaKatrinaReyes.NewsBrowser.Windows\obj\Debug\LuisaKatrinaReyes.NewsBrowser.Windows.Properties.Resources.resources
+C:\Users\VGD pc 2\Desktop\LuisaKatrinaReyes.NewsBrowser.Windows\obj\Debug\LuisaKatrinaReyes.NewsBrowser.Windows.csproj.GenerateResource.cache
+C:\Users\VGD pc 2\Desktop\LuisaKatrinaReyes.NewsBrowser.Windows\obj\Debug\LuisaKatrinaReyes.NewsBrowser.Windows.csproj.CoreCompileInputs.cache
+C:\Users\VGD pc 2\Desktop\LuisaKatrinaReyes.NewsBrowser.Windows\obj\Debug\LuisaKatrinaReyes.NewsBrowser.Windows.csproj.CopyComplete
+C:\Users\VGD pc 2\Desktop\LuisaKatrinaReyes.NewsBrowser.Windows\obj\Debug\LuisaKatrinaReyes.NewsBrowser.Windows.exe
+C:\Users\VGD pc 2\Desktop\LuisaKatrinaReyes.NewsBrowser.Windows\obj\Debug\LuisaKatrinaReyes.NewsBrowser.Windows.pdb
